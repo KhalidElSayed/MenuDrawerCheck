@@ -1,12 +1,11 @@
 package com.example.menudrawercheck;
 
+
 import net.simonvt.menudrawer.MenuDrawer;
-
-import com.actionbarsherlock.app.SherlockFragmentActivity;
-
+import android.app.Activity;
 import android.os.Bundle;
 
-public class MainActivity extends SherlockFragmentActivity {
+public class MainActivity extends Activity {
 
 	private MenuDrawer mMenuDrawer;
 	
